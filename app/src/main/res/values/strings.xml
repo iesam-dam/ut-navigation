@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTFragments</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_action_favorite">Ver Favoritos</string>
+    <string name="label_action_delete">Eliminar</string>
+    <string name="label_action_add">Añadir</string>
+    <string name="fragment_list_title">Módulos DAM</string>
+    <string name="action_change_to_fragment_list">Volver</string>
+    <string name="action_change_to_fragment_detail">Cargar Fragmento Detalle</string>
+
+    <!-- Params -->
+    <string name="fragment_detail_param">param1</string>
+</resources>
