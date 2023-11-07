@@ -281,3 +281,6 @@ detailToolbar.setNavigationOnClickListener {
 Para pasar parámetros de un fragment a otro usaremos el componente navigation con safe args, es
 decir, con argumentos seguros.
 
+# Bibliografía
+
+- (Documentación Oficial)[https://developer.android.com/guide/navigation]
