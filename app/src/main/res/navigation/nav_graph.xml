@@ -8,7 +8,6 @@
     <fragment
         android:id="@+id/fragment_list"
         android:name="com.iesam.utnavigation.features.list.presentation.SubjectListFragment"
-        android:label="@string/fragment_list_title"
         tools:layout="@layout/fragment_subject_list">
 
         <action
